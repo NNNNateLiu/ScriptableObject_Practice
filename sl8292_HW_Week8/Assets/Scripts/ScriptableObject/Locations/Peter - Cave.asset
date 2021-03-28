@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b854cc5d0bbb4d94ab1676e8e7e5e5ee, type: 3}
+  m_Name: Peter - Cave
+  m_EditorClassIdentifier: 
+  locationName: Cave
+  description: Where Peter Sleep
+  canWalkInside: 0
+  canWalkOutside: 1
+  isPeterHere: 0
+  locationNorth: {fileID: 0}
+  locationSouth: {fileID: 0}
+  locationWest: {fileID: 0}
+  locationEast: {fileID: 0}
+  locationInside: {fileID: 0}
+  locationOutside: {fileID: 11400000, guid: 9011ca8cedc7f654482e491aa128e4b2, type: 2}

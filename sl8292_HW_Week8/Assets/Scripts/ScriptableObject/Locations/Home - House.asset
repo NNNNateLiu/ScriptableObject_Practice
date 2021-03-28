@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b854cc5d0bbb4d94ab1676e8e7e5e5ee, type: 3}
+  m_Name: Home - House
+  m_EditorClassIdentifier: 
+  locationName: My Home
+  description: Home sweet home
+  canWalkInside: 1
+  canWalkOutside: 0
+  locationNorth: {fileID: 11400000, guid: b63c3a81291b4214c98dc3189e0d8350, type: 2}
+  locationSouth: {fileID: 11400000, guid: ec7579548350db646a3065e78c13761f, type: 2}
+  locationWest: {fileID: 11400000, guid: e1368486734bece4db5dc1e82c2b808e, type: 2}
+  locationEast: {fileID: 11400000, guid: 9011ca8cedc7f654482e491aa128e4b2, type: 2}
+  locationInside: {fileID: 11400000, guid: 8568d9d8a79bec844911323270435161, type: 2}
+  locationOutside: {fileID: 0}

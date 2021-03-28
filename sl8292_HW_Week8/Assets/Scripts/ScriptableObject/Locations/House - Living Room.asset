@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b854cc5d0bbb4d94ab1676e8e7e5e5ee, type: 3}
+  m_Name: House - Living Room
+  m_EditorClassIdentifier: 
+  locationName: Living Room
+  description: Wife is watching TV
+  canWalkInside: 0
+  canWalkOutside: 1
+  locationNorth: {fileID: 11400000, guid: 4ab4a54559152cd419260a5c62670275, type: 2}
+  locationSouth: {fileID: 11400000, guid: b6b3e671133362f428a5ed07f432bf4c, type: 2}
+  locationWest: {fileID: 11400000, guid: 9c381c1dce6a1b945adb4d9bdc50aa10, type: 2}
+  locationEast: {fileID: 11400000, guid: 01f49044d3d06174ca185799f37296e9, type: 2}
+  locationInside: {fileID: 0}
+  locationOutside: {fileID: 11400000, guid: f092d1533badc6f488cfeb8b8025c21c, type: 2}
